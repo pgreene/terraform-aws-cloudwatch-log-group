@@ -1,10 +1,10 @@
 variable "name" {
-  description = "use naming module https://github.com/Voyanta/terraform-terraform-label"
+  description = ""
   default = ""
 }
 
 variable "tags" {
-  description = "use naming module https://github.com/Voyanta/terraform-terraform-label"
+  description = ""
   default = {}
 }
 
